@@ -1,1 +1,1 @@
-# This repo conatins all Artificial intelligence lab files solutions.
+# This repo contains all Artificial intelligence lab files solutions.
